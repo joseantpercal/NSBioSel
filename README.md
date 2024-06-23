@@ -1,6 +1,8 @@
 # NSBioSel
 Código fuente de experimentación para el TFM del Máster en Ciencia de Datos e Ingeniería de Computadores (UGR)
 
+La implementación de los algoritmos utilizados en este estudio se ha basado en el repositorio disponible en GitHub, proporcionado por el Instituto J. Craig Venter. Los códigos fuente y las metodologías específicas pueden encontrarse en la siguiente dirección: \url{https://github.com/JCVenterInstitute/NSForest/tree/master}.
+
 ## Autores
 
 * José Antonio Pérez Calderón
