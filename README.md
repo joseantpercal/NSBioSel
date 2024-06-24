@@ -3,6 +3,10 @@ Código fuente de experimentación para el TFM del Máster en Ciencia de Datos e
 
 La implementación de los algoritmos utilizados en este estudio se ha basado en el repositorio disponible en GitHub, proporcionado por el Instituto J. Craig Venter. Los códigos fuente y las metodologías específicas pueden encontrarse en la siguiente dirección: https://github.com/JCVenterInstitute/NSForest/tree/master.
 
+El presente trabajo se fundamenta en el artículo titulado A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing de Aevermann et al. (2021). https://doi.org/10.1101/gr.275569.121.
+
+Los datos empleados en este estudio han sido recopilados del artículo A comprehensive mouse kidney atlas enables rare cell population characterization and robust marker discovery de Novella-Rausell et al., 2023. https://doi.org/10.1016/j.isci.2023.106877.
+
 ## Autores
 
 * José Antonio Pérez Calderón
